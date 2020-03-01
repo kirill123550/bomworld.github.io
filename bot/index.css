@@ -1,0 +1,16 @@
+ @charset 'UTF-8';
+
+ * {
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+ body {
+    background: #c7b39b url(1049.jpg); /* Цвет фона и путь к файлу */
+    background-size: cover; /* Фон занимает всю доступную площадь */
+    color: #00000; /* Цвет текста */
+   }
+
+   p {
+     font-size: 250%;
+   }
